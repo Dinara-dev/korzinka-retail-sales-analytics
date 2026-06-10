@@ -1,5 +1,4 @@
-# korzinka-retail-sales-analytics
-Power BI dashboard analyzing retail sales performance,  product rankings, and regional distribution for Korzinka supermarket chain in Uzbekistan.
+
 
 
 # 🛒 Korzinka Retail Sales Analytics Dashboard
@@ -43,4 +42,4 @@ All figures are fictional and used for demonstration only.
 **Dinara Sagdullaeva**
 Junior Data Analyst | Power BI Developer
 📍 Tashkent, Uzbekistan
-🔗 [LinkedIn](https://www.linkedin.com/in/dinara-sagdullaeva-b67740349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/Dinara-dev) | [hh.uz](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/dinara-sagdullaeva-b67740349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [GitHub](https://github.com/Dinara-dev) | [hh.uz](https://hh.uz/resume/a4989dcdff0ebf1b140039ed1f455a4e673477)
