@@ -32,7 +32,7 @@ for Korzinka — one of Uzbekistan's largest supermarket chains.
 - 🥤 Ichimlik (Beverages): 39.18%
 
 ## 📷 Dashboard Preview
-![Korzinka Dashboard](assets/screenshot.png)
+https://github.com/Dinara-dev/korzinka-retail-sales-analytics/blob/main/photo_2026-06-10_14-53-20.jpg
 
 ## 🗂️ Dataset
 Synthetic retail dataset created for portfolio purposes.
